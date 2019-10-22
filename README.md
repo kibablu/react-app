@@ -1,3 +1,19 @@
+# What is the goal of the Challenge?
+
+To Deploy React Application using Docker and [Google Cloud Platform](https://cloud.google.com/)
+
+## How to start
+
+1. Create a React App [Create React App](https://create-react-app.dev/docs/getting-started/)
+2. Package your app into a Docker image
+3. Run the container locally on your machine 
+4. Upload the image to a registry [Docker Hub](https://hub.docker.com/)
+5. Create a container cluster [inside Kubernetes Engine in GCP](https://cloud.google.com/kubernetes-engine/)
+6. Deploy your app to the cluster
+7. Expose your app to the Internet
+
+***********************************************************************************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
